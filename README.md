@@ -9,4 +9,4 @@ A simple todo list app, created using Jquery
 - JQuery
 - GhPages
 
-## Link: <your link goes here>
+## Link: your link goes here
